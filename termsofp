@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Yume AI</title>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>Effective Date: [Insert Date]</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using Yume AI, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.</p>
+
+    <h2>2. Use of Services</h2>
+    <p>You agree to use Yume AI only for lawful purposes and in a way that does not infringe the rights of others or restrict anyone else's use and enjoyment of the service.</p>
+
+    <h2>3. User Responsibilities</h2>
+    <p>Users are responsible for safeguarding their account information and for all activities that occur under their account.</p>
+
+    <h2>4. Limitation of Liability</h2>
+    <p>Yume AI shall not be liable for any indirect, incidental, or consequential damages arising out of your use or inability to use the service.</p>
+
+    <h2>5. Changes to Terms</h2>
+    <p>We reserve the right to update these terms at any time. Continued use of the service after changes constitutes acceptance of the new terms.</p>
+
+    <h2>6. Contact Information</h2>
+    <p>For any questions regarding these Terms of Service, please contact us at <strong>your-email@example.com</strong>.</p>
+
+    <br>
+    <button onclick="window.location.href='privacy-policy.html'">Privacy Policy</button>
+</body>
+</html>
